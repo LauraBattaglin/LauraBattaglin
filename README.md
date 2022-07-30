@@ -3,7 +3,7 @@ Olá! 👋 Eu sou a Laura Battaglin!
 🌱 Estudando HTML, CSS e Javascript
 <div align="center">
  <a href="https://github.com/laurabattaglin">
- <img width="48%" height="160em"src="https://github-readme-stats.vercel.app/api?username=laurabattaglin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img width="48%" height="150em"src="https://github-readme-stats.vercel.app/api?username=laurabattaglin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img width="48%" height="160em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurabattaglin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
